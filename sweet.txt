@@ -1,0 +1,2 @@
+Always remember that with Ubuntu you add the prefix xdg- to the open command or you get an error like this:
+'Couldn't get a file descriptor referring to the console'

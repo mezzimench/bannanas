@@ -7,3 +7,6 @@ git push --set-upstream origin foster
 git pull --set-upstream origin foster?
 
 ```
+git checkout [branch] to enter specified branch
+git merge [branch]
+git pull [branch]

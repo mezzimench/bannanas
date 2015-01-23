@@ -1,2 +1,9 @@
-Always remember that with Ubuntu you add the prefix xdg- to the open command or you get an error like this:
+```
+Always remember that with Ubuntu you add the prefix xdg- to the open command "xdg-open" or you get an error like this:
 'Couldn't get a file descriptor referring to the console'
+When pushing to a different branch than the master branch use:
+git push --set-upstream origin foster
+#=> Does pull work the same way?
+git pull --set-upstream origin foster?
+
+```
